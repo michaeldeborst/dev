@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@spectrum-css/button": "^11.0.12",
+    "@spectrum-css/page": "^6.0.4",
+    "@spectrum-css/vars": "^9.0.8",
+    "serve": "^14.2.1"
+  }
+}
