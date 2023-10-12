@@ -1,7 +1,10 @@
 {
   "dependencies": {
     "@spectrum-css/button": "^11.0.12",
+    "@spectrum-css/card": "^6.0.22",
+    "@spectrum-css/icon": "^4.0.3",
     "@spectrum-css/page": "^6.0.4",
+    "@spectrum-css/typography": "^5.0.44",
     "@spectrum-css/vars": "^9.0.8",
     "serve": "^14.2.1"
   }
